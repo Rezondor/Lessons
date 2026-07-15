@@ -6,7 +6,7 @@ namespace Lessons.Anya1
 {
     internal class Example00
     {
-        public static void Main1()
+        public static void main1()
         {
             Console.WriteLine("Vsem privetic!");
         }

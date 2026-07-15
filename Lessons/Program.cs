@@ -1,4 +1,6 @@
 ﻿namespace Lessons;
+using System.Collections.Generic;
+using System.Linq;
 
 internal class Program
 {
@@ -11,5 +13,6 @@ internal class Program
         Console.WriteLine("Bye bye, World!");
         Console.WriteLine("Bye bye, World!");
         Console.WriteLine("Bye bye, World!");
+
     }
 }
