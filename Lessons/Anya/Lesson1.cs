@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Lessons.Anya
+﻿namespace Lessons.Anya
 {
-    internal class Lesson1
+    internal class Lesson1 : ILesson
     {
-        public static void main1()
+        public void Start()
         {
             // Вводим строку
             Console.WriteLine("Введите строку: ");
